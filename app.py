@@ -8,7 +8,7 @@ Original file is located at
 """
 
 # ✅ Install if needed
-!pip install streamlit transformers spacy sumy
+#pip install streamlit transformers spacy sumy
 
 import streamlit as st
 import spacy
